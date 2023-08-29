@@ -1,1 +1,0 @@
-E:/trabajo/GitHub/artGallery/mniArtGallery/res
